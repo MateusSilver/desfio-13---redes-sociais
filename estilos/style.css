@@ -29,9 +29,6 @@ main {
   align-items: center;
 }
 
-#telefone > iframe {
-}
-
 #redes {
   position: absolute;
   right: 0;
